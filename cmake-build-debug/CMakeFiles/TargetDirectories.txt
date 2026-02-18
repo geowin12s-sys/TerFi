@@ -1,0 +1,3 @@
+D:/TerFi/cmake-build-debug/CMakeFiles/TerFi.dir
+D:/TerFi/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/TerFi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
